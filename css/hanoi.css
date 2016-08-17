@@ -1,0 +1,36 @@
+.disk-1 {
+  width: 25px;
+  background: gold;
+}
+
+.disk-2 {
+  width: 50px;
+  background: red;
+
+}
+
+.disk-3 {
+  width: 75px;
+  background: green;
+
+}
+
+li {
+  list-style: none;
+  width: 100px;
+  height: 30px;
+  margin: 5px auto;
+  border-radius: 5px;
+}
+
+ul {
+  width: 100px;
+  border-bottom: 10px solid brown;
+  float: left;
+  margin: 10px;
+  padding: 0;
+}
+
+.hanoi {
+
+}
